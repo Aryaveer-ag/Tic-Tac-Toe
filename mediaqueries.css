@@ -1,0 +1,10 @@
+@media screen and (max-width: 800px) {
+  .game-container {
+    flex-wrap: wrap;
+  }
+
+  .game-info {
+    margin-top: 20px;
+    font-size: 1rem;
+  }
+}
